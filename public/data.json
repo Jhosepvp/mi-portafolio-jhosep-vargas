@@ -1,0 +1,59 @@
+{
+  "perfil": {
+    "nombre": "Jhosep",
+    "rol": "Fullstack Developer",
+    "bio": "Desarrollador apasionado por el backend y la inteligencia artificial.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Express",
+      "Python",
+      "Flask",
+      "SQL",
+      "Tailwind CSS",
+      "SQLAlchemy",
+      "Leaflet",
+      "Google Gemini",
+      "Crypto.js",
+      "Asistente IA",
+      "Linux"
+    ],
+    "contacto": {
+      "email": "jhosepvargas20021@gmail.com",
+      "telefono": "+58 424 1495579",
+      "linkedin": "https://linkedin.com/in/jhosep-vargas-perez-68793533a",
+      "github": "https://github.com/jhosepvp",
+      "cv_link": "/cv-jhosep.pdf"
+    },
+
+    "proyectos": [
+      {
+        "nombre": "CivicPropose: Plataforma Ciudadana",
+        "descripcion": "Aplicación full-stack para propuestas comunitarias con votación anónima (hashing SHA-256) y un asistente de IA que resume y explica cada propuesta.",
+        "tecnologias": [
+          "React",
+          "Node.js",
+          "Express",
+          "SQL",
+          "Tailwind CSS",
+          "Leaflet",
+          "Crypto.js",
+          "IA"
+        ],
+        "detalles_tecnicos": "Arquitectura MERN-like con JWT, roles de usuario, votación segura con hashing y un endpoint de análisis de texto con IA."
+      },
+      {
+        "nombre": "QuizMaster AI",
+        "descripcion": "Sistema de quizzes que genera cuestionarios automáticamente usando IA. Permite a los profesores gestionar contenido y a los estudiantes competir en rankings.",
+        "tecnologias": [
+          "React",
+          "Python",
+          "Flask",
+          "SQLAlchemy",
+          "Google Gemini"
+        ],
+        "detalles_tecnicos": "Backend en Python/Flask con integración de la API de Google Gemini para la generación de contenido y frontend en React."
+      }
+    ]
+  }
+}
